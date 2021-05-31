@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angularproject-61ee2": {
+      "hosting": {
+        "GitHub-login-firebase": [
+          "angularproject-61ee2"
+        ]
+      }
+    }
+  }
+}
